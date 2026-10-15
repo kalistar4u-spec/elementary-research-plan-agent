@@ -1,0 +1,8 @@
+# 실제 연구 산출물은 별도 공개 검토 전까지 제외
+projects/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+__pycache__/
